@@ -1,59 +1,42 @@
-# Hi there! 👋 I'm Gabriel Filipe Cunha
+# 👨‍💻 Gabriel Filipe Cunha
 
-## 🚀 About Me
-
-Welcome to my GitHub! I'm passionate about building impactful software and contributing to open-source projects. I love tackling challenging problems, learning new technologies, and collaborating with talented developers.
-
-## 💻 Tech Stack
-
-```
-Languages:    [Your languages here]
-Frontend:     [Your frontend skills]
-Backend:      [Your backend skills]
-Tools:        [Your tools & platforms]
-```
-
-## 🎯 Current Focus
-
-- 🔭 Working on: *[Current projects]*
-- 🌱 Learning: *[Technologies you're learning]*
-- 👯 Open to collaborating on: *[Types of projects]*
-- 💡 Interested in: *[Your interests]*
-
-## 📌 Featured Projects
-
-### [Project Name](https://github.com/username/project)
-Brief description of what the project does and its key features.
-*Tech Stack: [Languages/Frameworks]*
-
-### [Project Name](https://github.com/username/project)
-Brief description of what the project does and its key features.
-*Tech Stack: [Languages/Frameworks]*
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFilipeCunha&show_icons=true&theme=radical)
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [Your Website](https://yourwebsite.com)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
-
-## 📝 Latest Blog Posts
-
-- [Blog Post Title](https://yourblog.com)
-- [Blog Post Title](https://yourblog.com)
+🎯 Desenvolvedor focado em criar soluções práticas e eficientes utilizando tecnologias modernas.
 
 ---
 
-### 💬 Ask Me About
-*[Topics you're knowledgeable about]*
+## 🚀 Sobre mim
 
-### ⚡ Fun Fact
-*[Something interesting about you]*
+Sou um desenvolvedor dedicado à tecnologia, sempre em busca de evolução e novos desafios.
+Tenho experiência com desenvolvimento web e back-end, criando aplicações funcionais e bem estruturadas.
+
+💡 Gosto de aprender coisas novas, resolver problemas e transformar ideias em código.
 
 ---
 
-*Last updated: 2026-04-15*
+## 🛠️ Tecnologias & Ferramentas
+
+* 🌐 **Front-end:** HTML, CSS, JavaScript
+* 💻 **Back-end:** C#
+* 🗄️ **Banco de Dados:** SQL Server
+* 🔧 **Outros:** Git & GitHub
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFilipeCunha\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFilipeCunha\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌎 Onde me encontrar
+
+💼 LinkedIn:
+👉 https://www.linkedin.com/in/gabriel-filipe-545507338/
+
+---
+
+## ✨ Objetivo
+
+Busco oportunidades para crescer como desenvolvedor, contribuir com projetos e adquirir experiência no mercado de tecnologia.
